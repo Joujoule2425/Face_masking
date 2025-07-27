@@ -1,2 +1,2 @@
 # Face_masking
-This project provides a lightweight and easy-to-use system for face detection and anonymization in images, video, and webcam streams. It uses [MediaPipe](https://google.github.io/mediapipe/) for accurate face detection and [OpenCV](https://opencv.org/) to apply face-blurring or masking for privacy protection.
+A lightweight Python tool to detect and anonymize faces in images, videos, and live webcam streams using OpenCV. This project includes two implementations: one using the classic Haar Cascade method and another using MediaPipe’s modern face detection API.
